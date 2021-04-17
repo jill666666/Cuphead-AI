@@ -1,7 +1,7 @@
 # Cuphead-AI
 ## Main Files
 - detect-custom.py: run to start object detection
-- yolo.ipynb: preparation/train example (best in Google Colab environment)
+- yolo.ipynb: preparation/train example (Google Colab)
 
 ## Folder Navigation
 - data/images: train images
