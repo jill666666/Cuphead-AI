@@ -1,6 +1,6 @@
 # Cuphead-AI
 ## Main Files
-- detect-custom.py
+- detect-custom.py: run to start object detection
 - yolo.ipynb: preparation/train example (best in Google Colab environment)
 
 ## Folder Navigation
